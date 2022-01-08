@@ -1,2 +1,7 @@
 # netflix-clone
-Site clone da Netflix que construi no curso que ministrei na https://digitalinnovation.one/
+Site clone da Netflix 
+<div class="owl-carousel owl-theme">
+         <div class="item" >
+             <img class="box-filme" src="img/mini1.jpg" alt="" srcset="">
+
+         </div>
